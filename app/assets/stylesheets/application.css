@@ -13,3 +13,26 @@
  *= require_tree .
  *= require_self
  */
+li {
+  list-style-type: none;
+}
+
+
+.button {
+  border-radius: 18px;
+  background-color: rgb(46, 46, 158);
+  color: white !important;
+  text-align: center;
+  display: inline-block;
+  padding: 8px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
